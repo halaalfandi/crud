@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"nodemon index.js",
-    "start":"node index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halaalfandi/crud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/halaalfandi/crud/issues"
+  },
+  "homepage": "https://github.com/halaalfandi/crud#readme"
 }
